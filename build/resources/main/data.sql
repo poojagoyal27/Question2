@@ -1,0 +1,1 @@
+INSERT INTO EntityPactice(Description,Name) VALUES ('Hello','World');
